@@ -22,13 +22,20 @@ London, UK (June - July 2024)
 
 ### Technical Skills
 Programming Languages: Java, Python, C++
+
 Web Development: HTML
+
 Operating Systems: Linux
+
 Database Management: Microsoft Access
+
 Data Visualization: Tableau
+
 Office Tools: Microsoft Office
+
 Data Analysis
 
 ### Certifications
 Python: Udemy
+
 Cybersecurity: Cisco Networking Academy
