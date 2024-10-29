@@ -1,6 +1,6 @@
 # Cybersecurity  & Data Analytics
 
-### Education
+## Education
 #### Kennesaw State University
 Bachelor of Business Administration in Information Security and Assurance
 Expected Graduation: December 2025
