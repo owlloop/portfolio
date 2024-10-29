@@ -21,6 +21,22 @@ London, UK (June - July 2024)
 
 - GPA: 4.00/4.00
 - Focus: Cybersecurity, International Business, Globalization
+## Projects
+
+### Array Creator and Sorter
+[Java](https://github.com/owlloop/portfolio/blob/main/Array%20Creator%20and%20Sorter.java)
+
+### Calculator
+[Java](https://github.com/owlloop/portfolio/blob/main/Calculator.java)
+
+### Connect Four Game
+[Python](https://github.com/owlloop/portfolio/blob/main/Connect%20Four%20Game.java)
+
+### Hash Decrypter Project
+[Python](https://github.com/owlloop/portfolio/blob/main/Hash-Decrypter-Project.py)
+
+### Password Integrity
+[Python](https://github.com/owlloop/portfolio/blob/main/Password%20Integrity.py)
 
 ### Technical Skills
 Programming Languages: Java, Python, C++
