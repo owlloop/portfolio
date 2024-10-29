@@ -29,7 +29,7 @@ London, UK (June - July 2024)
 
 5) [Password Integrity](https://github.com/owlloop/portfolio/blob/main/Password%20Integrity.py)
 
-### Technical Skills
+## Technical Skills
 Programming Languages: Java, Python, C++
 
 Web Development: HTML
@@ -44,7 +44,7 @@ Office Tools: Microsoft Office
 
 Data Analysis
 
-### Certifications
+## Certifications
 Python: Udemy
 
 Cybersecurity: Cisco Networking Academy
