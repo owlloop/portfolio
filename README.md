@@ -7,16 +7,17 @@ Expected Graduation: December 2025
 - Cumulative GPA: 3.74/4.0
 - President’s List: 3x
 - Dean’s List: 3x
+  
+#### Study Abroad Program - USG Goes Global
+London, UK (June - July 2024)
+- GPA: 4.00/4.00
+- Focus: Cybersecurity, International Business, Globalization
 
 #### Chattahoochee Technical College
 Associate in Applied Science, Information Systems
 - Graduation: May 2022
 - Cumulative GPA: 4.0/4.0
 
-#### Study Abroad Program - USG Goes Global
-London, UK (June - July 2024)
-- GPA: 4.00/4.00
-- Focus: Cybersecurity, International Business, Globalization
   
 ## Projects
 1) [Array Creator and Sorter](https://github.com/owlloop/portfolio/blob/main/Array%20Creator%20and%20Sorter.java)
@@ -28,6 +29,12 @@ London, UK (June - July 2024)
 4) [ Hash Decrypter Project](https://github.com/owlloop/portfolio/blob/main/Hash-Decrypter-Project.py)
 
 5) [Password Integrity](https://github.com/owlloop/portfolio/blob/main/Password%20Integrity.py)
+
+## Certifications
+Python: Udemy
+
+Cybersecurity: Cisco Networking Academy
+
 
 ## Technical Skills
 Programming Languages: Java, Python, C++
@@ -44,7 +51,3 @@ Office Tools: Microsoft Office
 
 Data Analysis
 
-## Certifications
-Python: Udemy
-
-Cybersecurity: Cisco Networking Academy
