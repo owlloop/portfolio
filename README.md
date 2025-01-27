@@ -4,7 +4,7 @@
 #### Kennesaw State University
 Bachelor of Business Administration in Information Security and Assurance
 Expected Graduation: December 2025
-- Cumulative GPA: 3.74/4.0
+- Cumulative GPA: 3.78/4.0
 - President’s List: 3x
 - Dean’s List: 3x
   
@@ -34,6 +34,8 @@ Associate in Applied Science, Information Systems
 Python: Udemy
 
 Cybersecurity: Cisco Networking Academy
+
+Simplilearn: Introduction to Cloud Security
 
 
 ## Technical Skills
