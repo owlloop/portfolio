@@ -31,7 +31,7 @@ Associate in Applied Science, Information Systems
 5) [Password Integrity](https://github.com/owlloop/portfolio/blob/main/Password%20Integrity.py)
 
 ## Certifications
-Python: Udemy
+Udemy: Python
 
 Cybersecurity: Cisco Networking Academy
 
