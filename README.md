@@ -6,7 +6,7 @@ Bachelor of Business Administration in Information Security and Assurance
 Expected Graduation: December 2025
 - Cumulative GPA: 3.78/4.0
 - President’s List: 3x
-- Dean’s List: 3x
+- Dean’s List: 1x
   
 #### Study Abroad Program - USG Goes Global
 London, UK (June - July 2024)
@@ -17,7 +17,8 @@ London, UK (June - July 2024)
 Associate in Applied Science, Information Systems
 - Graduation: May 2022
 - Cumulative GPA: 4.0/4.0
-
+- President’s List: 1x
+- Dean’s List: 2x
   
 ## Projects
 1) [Array Creator and Sorter](https://github.com/owlloop/portfolio/blob/main/Array%20Creator%20and%20Sorter.java)
@@ -47,9 +48,11 @@ Operating Systems: Linux
 
 Database Management: Microsoft Access
 
-Data Visualization: Tableau
+Data Visualization: Tableau, Excel
 
 Office Tools: Microsoft Office
 
-Data Analysis
+System & Cloud Security: AWS, Bash, Terraform
+
+
 
